@@ -143,10 +143,11 @@ img.profile-pic {
 }
 
 .text-name {
-    font-family: 'Lato', sans-serif;
-    font-weight: 400;
-    color: #333333;
-    font-size: 20px;
+  font-family: "Space Grotesk", serif;
+  font-size: 12px;
+  font-weight: 700;
+  color: #333333;
+  font-style: normal;
 }
 
 .text-title-company {
