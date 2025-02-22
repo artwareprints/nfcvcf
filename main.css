@@ -144,8 +144,8 @@ img.profile-pic {
 
 .text-name {
     font-family: "Space Grotesk", serif;
-    font-optical-sizing: auto;
-    font-weight: 700;
+    font-size: 15px;
+    font-weight: 300;
     font-style: normal;
     color: #333333;
 }
