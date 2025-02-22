@@ -145,16 +145,16 @@ img.profile-pic {
 .text-name {
     font-family: "Space Grotesk", serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: 700;
     font-style: normal;
     color: #333333;
 }
 
 .text-title-company {
-    font-family: 'Space-Grotesk', Bold;
-    font-weight: 200;
+    font-family: 'Space-Grotesk', serif;
+    font-weight: 300;
     color: #333333;
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .text-detail {
